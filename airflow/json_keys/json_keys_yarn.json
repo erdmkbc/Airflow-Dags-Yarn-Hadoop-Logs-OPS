@@ -1,0 +1,9 @@
+{
+    "database":"logs_db",
+    "tablename":"yarn_logs",
+    "hdfs_file_path":"/user/train",
+    "logs_local_file_path_yarn":"/home/train/airflow/landing_file/yarn_logs",
+    "logs_local_file_path_dags":"/home/train/airflow/landing_file/dags_logs",
+    "bash_files_path":"/home/train/airflow/bash_commands"
+
+}
